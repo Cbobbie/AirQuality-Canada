@@ -1,5 +1,5 @@
 # AirQuality-Canada
-This repository contains source code for a small data exploration project on Fine Particulate Matter levels in Canada from 2000-2014.
+This repository contains source code for a small data exploration project on fine particulate matter levels in Canada from 2000-2014.
 
 ## Dataset
 The data for this project can be found at http://open.canada.ca/data/en/dataset/8fa6c70b-49bc-4101-b935-09fd9a940ae3 .
